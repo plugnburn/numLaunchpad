@@ -1,0 +1,19 @@
+CACHE MANIFEST
+#ver1
+CACHE:
+fav.png
+index.html
+style.css
+scripts.js
+samples/1.wav
+samples/2.wav
+samples/3.wav
+samples/4.wav
+samples/5.wav
+samples/6.wav
+samples/7.wav
+samples/8.wav
+samples/9.wav
+
+NETWORK:
+offline.appcache
